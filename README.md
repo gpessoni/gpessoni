@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💻 Linguagens: <strong>HTML | JavaScript | CSS | Python
+  💻 Tecnologias: <strong>HTML | JavaScript | CSS | Python
 </p>
 
 <p align="left">
