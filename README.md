@@ -6,11 +6,10 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  🦄 Linguagens: <strong>HTML<br>
+  JavaScript
+  <br>CSS
+  <br>Python
 </p>
 
 <p align="left">
