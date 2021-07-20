@@ -3,13 +3,13 @@
   Gabriel Pessoni
   </h1>
 <p align="left"> 
- Desenvolvedor Front-End
+ Desenvolvedor Front-End 🤓
   <br>
   17 anos
   <br>
-  Cursando ADS na Fatec Franca
+  Cursando ADS na Fatec Franca 🎓
   <br>
-  Franca, SP
+  Franca, SP 🌎
 </p>
 
 <p align="left">
@@ -32,3 +32,23 @@
   <a href="https://www.instagram.com/gabriel_pessoni" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gabriel_pessoni/"/></a>
 </p>  
+<hr>
+<p align="left">
+ 📚 Experiências :
+<br>📌 Pesquisador Científico CNPQ (2019 – 2020)
+<br>📌 Desenvolvedor VBA (Freelancer 2018-2019)
+<br>📌 Desenvolvedor na ORAGE Computer (Trabalho independente 2018-2021) 
+</p>
+
+<p align="left">
+ 📚 Hobbies :
+<br>📼 Sci-Fi
+<br>🎮 Games
+<br>📖 Livros 
+ <br>🎲 RPG
+  <br> 🌌 Astronomia
+</p>
+
+
+
+
