@@ -36,7 +36,7 @@
 <p align="left">
  📚 Experiências :
 <br>📌 Pesquisador Científico CNPQ (2019 – 2020)
-<br>📌 Desenvolvedor VBA (Freelancer 2018-2019)
+<br>📌 Desenvolvedor VBA (Freelancer)
 <br>📌 Desenvolvedor na ORAGE Computer (Trabalho independente 2018-2021) 
 </p>
 
