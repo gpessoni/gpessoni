@@ -15,7 +15,9 @@
 <p align="left">
   💻 Tecnologias: <strong>HTML | JavaScript | CSS | Python
 </p>
-
+<p align="left">
+ 📺 Portifólio: https://gpessoni.github.io/
+</p>
 <p align="left">
   💌 Links para contato: ⤵️
 </p>
