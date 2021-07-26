@@ -14,11 +14,12 @@
 
 <p align="left">
   💻 Tecnologias: 
+
+</p>
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-</p>
 <p align="left">
  📺 Portifólio: https://gpessoni.github.io/
 </p>
