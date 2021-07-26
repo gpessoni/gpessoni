@@ -42,6 +42,13 @@
 <br>📌 Desenvolvedor na ORAGE Computer (Trabalho independente 2018-2021) 
 </p>
 
+
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+
+
 <p align="left">
  📚 Hobbies :
 <br>📼 Sci-Fi
