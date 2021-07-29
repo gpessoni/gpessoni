@@ -61,6 +61,9 @@
   <br> 🌌 Astronomia
 </p>
 
-
+<p align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=aduguid&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+    <img src="http://github-readme-stats.vercel.app/api?username=aduguid&count_private=true&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  </a>
 
 
