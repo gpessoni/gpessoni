@@ -46,7 +46,7 @@
 <p align="left">
  📚 Experiências :
 <br>📌 Pesquisador Científico CNPQ (2019 – 2020)
-<br>📌 Cientista de dados (Canadá) (2020 - 2021)
+<br>📌 Cientista de dados (Canadá) (2021 - Atualmente)
 <br>📌 Desenvolvedor na ORAGE Computer (Trabalho independente 2019-2021) 
 </p>
 
