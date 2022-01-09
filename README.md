@@ -3,7 +3,7 @@
   Gabriel Pessoni
   </h1>
 <p align="left"> 
- Desenvolvedor Front-End 🤓
+ Desenvolvedor React 🤓
   <br>
   18 anos
   <br>
@@ -44,9 +44,10 @@
 <hr>
 <p align="left">
  📚 Experiências :
-<br>📌 Pesquisador Científico CNPQ (2019 – 2020)
-<br>📌 Cientista de dados (Canadá) (2021 - Atualmente)
+<br>📌 Pesquisador Científico CNPQ (2019 – 2021)
+<br>📌 Cientista de dados (Canadá) (2021)
 <br>📌 Desenvolvedor na ORAGE Computer (Trabalho independente 2019-2021) 
+<br>📌 React Developer na Esquadros  (Atualmente) 
 </p>
 
 
