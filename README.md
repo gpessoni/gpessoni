@@ -48,7 +48,7 @@
 <br>📌 Pesquisador Científico CNPQ (2019 – 2021)
 <br>📌 Cientista de dados (Canadá) (2021)
 <br>📌 Desenvolvedor na ORAGE Computer (Trabalho independente 2019-2021) 
-<br>📌 React Developer na Esquadros  (Atualmente) 
+  <a href="https://esquadros.com.br/"> <br>📌 React Developer na Esquadros  (Atualmente) </a>
 </p>
 
 
