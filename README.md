@@ -1,10 +1,13 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
-<h1 align="left">
+
+
   Gabriel Pessoni
-  </h1>
-  <p  align="center">
+<p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
                   
+  <br>
+
+
   <br>
 
 <p align="left"> 
