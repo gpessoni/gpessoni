@@ -7,7 +7,7 @@ React Developer 🖖
   <br>
   18 years
   <br>
-  Cursando ADS na Fatec Franca 🎓
+  Studying at Fatec Franca (Analysis and systems development) 🎓
   <br>
   Franca, SP 🌎
 </p>
