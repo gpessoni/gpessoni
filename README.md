@@ -42,7 +42,11 @@ React Developer 🖖
   <a href="https://www.instagram.com/gabriel_pessoni" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gabriel_pessoni/"/></a>
 </p>  
-<hr>
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+                  
+  <br>
+
 <p align="left">
  📚 Experiences:
 <br>📌 Scientific Researcher from CNPQ(2019 – 2022)
