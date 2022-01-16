@@ -1,11 +1,11 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 <h1 align="left">
   Gabriel Pessoni
   </h1>
 <p align="left"> 
- Desenvolvedor React 🤓
+React Developer 🖖
   <br>
-  18 anos
+  18 years
   <br>
   Cursando ADS na Fatec Franca 🎓
   <br>
@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  💻 Tecnologias: </p>
+  💻 Technologies: </p>
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/>
 <code><img height="32" src="https://w7.pngwing.com/pngs/423/333/png-transparent-mysql-logo-database-join-table-blue-furniture-text-thumbnail.png" alt="MySQL"/></code> <br>
@@ -24,10 +24,10 @@
  </code>
  <br>
 <p align="left">
- 📺 Portifólio: https://gpessoni.github.io/
+ 📺 Portfolio: https://gpessoni.github.io/
 </p>
 <p align="left">
-  💌 Links para contato: ⤵️
+  💌 Contact links: ⤵️
 </p>
 
 <p align="left">
@@ -44,10 +44,10 @@
 </p>  
 <hr>
 <p align="left">
- 📚 Experiências :
+ 📚 Experiences:
 <br>📌 Pesquisador Científico CNPQ (2019 – 2022)
 <br>📌 Data Scientist with Python and Tableau (Canadá) (2021)
-  <a href="https://esquadros.com.br/"> <br>📌 React Developer na Esquadros  (Atualmente) </a>
+  <a href="https://esquadros.com.br/"> <br>📌 React Developer in Esquadros  (Currently) </a>
 </p>
 
 
