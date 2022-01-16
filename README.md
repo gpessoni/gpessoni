@@ -76,7 +76,7 @@ React Developer 🖖
 <tr border="0">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=gpessoni&theme=cobalt&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=gpessoni&theme=darcula&show_icons=true&count_private=true" />
   <br></br>
 
 </td>
