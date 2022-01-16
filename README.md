@@ -10,7 +10,7 @@
 <p align="left"> 
 React Developer 🖖
   <br>
-  18 years
+  18 years 🚀
   <br>
   Studying at Fatec Franca (Analysis and systems development) 🎓
   <br>
