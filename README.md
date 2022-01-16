@@ -50,4 +50,4 @@ React Developer 🖖
   <a href="https://esquadros.com.br/"> <br>📌 React Developer in Esquadros  (Currently) </a>
 </p>
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gpessoni)](https://github.com/gpessoni/github-readme-stats)
