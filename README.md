@@ -45,7 +45,7 @@ React Developer 🖖
 <hr>
 <p align="left">
  📚 Experiences:
-<br>📌 Pesquisador Científico CNPQ (2019 – 2022)
+<br>📌 Scientific Researcher from CNPQ(2019 – 2022)
 <br>📌 Data Scientist with Python and Tableau (Canadá) (2021)
   <a href="https://esquadros.com.br/"> <br>📌 React Developer in Esquadros  (Currently) </a>
 </p>
