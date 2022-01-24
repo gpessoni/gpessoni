@@ -65,7 +65,7 @@ React Developer 🖖
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
  
 🖱️ SETUP: </p>
-🖥️ MAIN COMPUTER: PROCESSADOR: RYZEN 7 5700G | PLACA DE VÍDEO: VEGA 11 | 32GB RAM | SSD: 512GB M2 | FONTE: 650W 
+🖥️ MAIN COMPUTER: PROCESSADOR: RYZEN 7 5700G | PLACA DE VÍDEO: VEGA 11 | MEMÓRIA: 32GB RAM | SSD: 512GB M2 | FONTE: 650W 
 
 
 
