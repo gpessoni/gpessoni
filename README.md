@@ -61,6 +61,9 @@ React Developer 🖖
   <a href="https://esquadros.com.br/"> <br>📌 FrontEnd Developer in Esquadros  (Currently) </a>
 </p>
 
+  💻⌨️🖱️ SETUP: </p>
+<br>🖥️ Main Computer: Processador: Ryzen 7 5700g | Placa de Vídeo: Vega 11 | 32gb RAM | SSD: 512gb m2 | Donte: 650w 
+<br>
 
 
 
