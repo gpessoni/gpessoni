@@ -30,29 +30,7 @@ React Developer 🖖
  </code>
 
  <br>
-<p align="left">
- 📺 Portfolio: https://gpessoni.github.io/
-</p>
-<p align="left">
-  💌 Contact links: ⤵️
-</p>
 
-<p align="left">
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHwsJWHqHhPsCMkDSPkhjdCTnMcZMqBNzkKSNHrkkgxFKXqgbrgmkWdrgzwhkvNnNFgVgKq" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gabrielspessoni@gmail.com" /></a>
-  <a href="https://api.whatsapp.com/send?phone=5516999980213&text=Gabriel%20Pessoni%20(Desenvolvedor%20Front-End)" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-
-  <a href="https://www.facebook.com/profile.php?id=100009137994367" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
-
-  <a href="https://www.instagram.com/gabriel_pessoni" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gabriel_pessoni/"/></a>
-</p>  
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-                  
-  <br>
 
 <p align="left">
  📚 Experiences:
@@ -88,3 +66,30 @@ React Developer 🖖
 </table>
 
 <br>
+
+<p align="left">
+ 📺 Portfolio: https://gpessoni.github.io/
+</p>
+
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=gpessoni&theme=radical&show_icons=true&count_private=true" />
+  <br></br>
+<p align="left">
+  💌 Contact links: ⤵️
+</p>
+
+<p align="left">
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHwsJWHqHhPsCMkDSPkhjdCTnMcZMqBNzkKSNHrkkgxFKXqgbrgmkWdrgzwhkvNnNFgVgKq" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gabrielspessoni@gmail.com" /></a>
+  <a href="https://api.whatsapp.com/send?phone=5516999980213&text=Gabriel%20Pessoni%20(Desenvolvedor%20Front-End)" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+
+  <a href="https://www.facebook.com/profile.php?id=100009137994367" alt="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
+
+  <a href="https://www.instagram.com/gabriel_pessoni" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gabriel_pessoni/"/></a>
+</p>  
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+                  
+  <br>
