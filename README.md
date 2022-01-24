@@ -66,9 +66,8 @@ React Developer 🖖
 </table>
 
 <br>
-
-
-
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <p align="left">
   💌 Contact links: ⤵️
@@ -86,8 +85,7 @@ React Developer 🖖
   <a href="https://www.instagram.com/gabriel_pessoni" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gabriel_pessoni/"/></a>
 </p>  
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
                   
 <p align="left">
  📺 Portfolio: https://gpessoni.github.io/
