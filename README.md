@@ -71,8 +71,7 @@ React Developer 🖖
  📺 Portfolio: https://gpessoni.github.io/
 </p>
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=gpessoni&theme=radical&show_icons=true&count_private=true" />
-  <br></br>
+
 <p align="left">
   💌 Contact links: ⤵️
 </p>
