@@ -42,11 +42,6 @@ React Developer 🖖
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
  
-🖱️ SETUP: </p>
-🖥️ MAIN COMPUTER: PROCESSADOR: RYZEN 7 5700G | PLACA DE VÍDEO: VEGA 11 | MEMÓRIA: 32GB RAM | SSD: 512GB M2 | FONTE: 650W 
-💻 MAIN LAPTOP: NOTEBOOK ACER ASPIRE 5 | PROCESSADOR: INTEL CORE I5 7200U | MEMÓRIA: 8GB RAM | SSD: 512GB SATA 
-                 
-  <br>
 
 <table border="0" align="center">
 <tr border="0">
@@ -85,7 +80,11 @@ React Developer 🖖
   <a href="https://www.instagram.com/gabriel_pessoni" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gabriel_pessoni/"/></a>
 </p>  
-
+🖱️ SETUP: </p>
+🖥️ MAIN COMPUTER: PROCESSADOR: RYZEN 7 5700G | PLACA DE VÍDEO: VEGA 11 | MEMÓRIA: 32GB RAM | SSD: 512GB M2 | FONTE: 650W 
+💻 MAIN LAPTOP: NOTEBOOK ACER ASPIRE 5 | PROCESSADOR: INTEL CORE I5 7200U | MEMÓRIA: 8GB RAM | SSD: 512GB SATA 
+                 
+  <br>
                   
 <p align="left">
  📺 Portfolio: https://gpessoni.github.io/
