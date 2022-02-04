@@ -23,35 +23,26 @@ React Developer 🖖
   <code><img height="32" src="https://w7.pngwing.com/pngs/423/333/png-transparent-mysql-logo-database-join-table-blue-furniture-text-thumbnail.png" alt="MySQL"/></code> <br>
  </code>
  <br>
-
-
 <p align="left">
  📚 Experiences:
 <br>📌 Scientific Researcher from CNPQ(2019 – 2022)
 <br>📌 Data Scientist with Python and Tableau (Canadá) (2021)
   <a href="https://esquadros.com.br/"> <br>📌 FrontEnd Developer in Esquadros  (Currently) </a>
 </p>
-
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
  
-
 <table border="0" align="center">
 <tr border="0">
 <td width="50%" align="center">
    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gpessoni&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <br>
-
 </td>
-
 <td width="50%" align="center">
-
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpessoni&layout=compact&langs_count=7&theme=radical"/>
-  
   </td>
 </tr>
 </table>
-
 <br>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
@@ -65,16 +56,12 @@ React Developer 🖖
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gabrielspessoni@gmail.com" /></a>
   <a href="https://api.whatsapp.com/send?phone=5516999980213&text=Gabriel%20Pessoni%20(Desenvolvedor%20Front-End)" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-
   <a href="https://www.facebook.com/profile.php?id=100009137994367" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
-
   <a href="https://www.instagram.com/gabriel_pessoni" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gabriel_pessoni/"/></a>
 </p>  
-<br>
-
-                  
+<br>             
 <p align="left">
  📺 Portfolio: https://gpessoni.github.io/
 </p>
