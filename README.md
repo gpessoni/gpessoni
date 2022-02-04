@@ -47,14 +47,14 @@ React Developer 🖖
 <tr border="0">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=gpessoni&theme=radical&show_icons=true&count_private=true" />
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gpessoni&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <br></br>
 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gpessoni&theme=radical&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpessoni&layout=compact&langs_count=7&theme=radical"/>
   
   </td>
 </tr>
