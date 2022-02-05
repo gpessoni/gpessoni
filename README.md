@@ -31,9 +31,6 @@ React Developer 🖖
 </p>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
- 
-<table border="0" align="center">
-<tr border="0">
 <td width="50%" align="center">
    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gpessoni&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <br>
