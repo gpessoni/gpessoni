@@ -29,6 +29,7 @@ React Developer 🖖
 <br>📌 Data Scientist with Python and Tableau (Canadá) (2021)
   <a href="https://esquadros.com.br/"> <br>📌 FrontEnd Developer in Esquadros  (Currently) </a>
 </p>
+
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <td width="50%" align="center">
@@ -40,6 +41,7 @@ React Developer 🖖
   </td>
 </tr>
 </table>
+
 <br>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
