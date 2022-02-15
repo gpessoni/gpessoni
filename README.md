@@ -6,6 +6,7 @@
 <p align="left"> 
 React Developer 🖖
   <br>
+  
   18 years 🚀
   <br>
   Studying at Fatec Franca (Analysis and systems development) 🎓
@@ -48,7 +49,6 @@ React Developer 🖖
 <p align="left">
   💌 Contact links: ⤵️
 </p>
-
 <p align="left">
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHwsJWHqHhPsCMkDSPkhjdCTnMcZMqBNzkKSNHrkkgxFKXqgbrgmkWdrgzwhkvNnNFgVgKq" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gabrielspessoni@gmail.com" /></a>
