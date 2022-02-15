@@ -6,7 +6,6 @@
 <p align="left"> 
 React Developer 🖖
   <br>
-  
   18 years 🚀
   <br>
   Studying at Fatec Franca (Analysis and systems development) 🎓
@@ -36,19 +35,21 @@ React Developer 🖖
 <td width="50%" align="center">
    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gpessoni&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </td>
+  
 <td width="50%" align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpessoni&layout=compact&langs_count=7&theme=radical"/>
   </td>
+  
 </tr>
 </table>
 
 <br>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
 <p align="left">
   💌 Contact links: ⤵️
 </p>
+
 <p align="left">
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHwsJWHqHhPsCMkDSPkhjdCTnMcZMqBNzkKSNHrkkgxFKXqgbrgmkWdrgzwhkvNnNFgVgKq" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gabrielspessoni@gmail.com" /></a>
@@ -58,8 +59,10 @@ React Developer 🖖
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
   <a href="https://www.instagram.com/gabriel_pessoni" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gabriel_pessoni/"/></a>
-</p>  
-<br>             
+</p> 
+
+<br>  
+
 <p align="left">
  📺 Portfolio: https://gpessoni.github.io/
 </p>
