@@ -2,7 +2,9 @@
 <h1>
   Gabriel Pessoni
   </h1>
+  
   <br>
+  
 <p align="left"> 
 React Developer 🖖
   <br>
@@ -12,6 +14,7 @@ React Developer 🖖
   <br>
   Franca, SP 🌎
 </p>
+
 <p align="left">
   💻 Technologies: </p>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/>
@@ -23,6 +26,7 @@ React Developer 🖖
   <code><img height="32" src="https://w7.pngwing.com/pngs/423/333/png-transparent-mysql-logo-database-join-table-blue-furniture-text-thumbnail.png" alt="MySQL"/></code> <br>
  </code>
  <br>
+ 
 <p align="left">
  📚 Experiences:
 <br>📌 Scientific Researcher from CNPQ(2019 – 2022)
