@@ -6,7 +6,7 @@
   <br>
   
 <p align="left"> 
-React Developer 🖖
+Front-End Developer 🖖
   <br>
   18 years 🚀
   <br>
