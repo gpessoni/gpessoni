@@ -14,17 +14,15 @@ Front-End Developer 🖖
   <br>
   Franca, SP 🌎
 </p>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<br/>
+📚 Technologies:
 <p align="left">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge"/>
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-dd0031?logo=angular&logoColor=white&style=for-the-badge"/>
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-000?logo=Git&logoColor=white&style=for-the-badge" />
-  <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=yellow"/>
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-336791?logo=python&logoColor=white&style=for-the-badge"/>
+  <img alt="React" src="https://img.shields.io/badge/React-dd0031?logo=react&logoColor=white&style=for-the-badge"/>
+  <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/GitHub-000?logo=GitHub&logoColor=white&style=for-the-badge" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%2314354C.svg?&style=for-the-badge&logo=typescript&logoColor=yellow"/>
 </p>
  <p align="left">
   🏷️ Clique nas imagens para ver alguns projetos da linguagem: </p>
