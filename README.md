@@ -16,7 +16,7 @@ Front-End Developer 🖖
 </p>
 
 <p align="left">
-  💻 Technologies: </p>
+  
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge"/>
   <img alt="Angular" src="https://img.shields.io/badge/Angular-dd0031?logo=angular&logoColor=white&style=for-the-badge"/>
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -25,7 +25,8 @@ Front-End Developer 🖖
   <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=yellow"/>
   <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
- </code> <br>
+  
+</p>
  <br>
  <p align="left">
   🏷️ Clique nas imagens para ver alguns projetos da linguagem: </p>
