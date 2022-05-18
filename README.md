@@ -14,9 +14,9 @@ Front-End Developer 🖖
   <br>
   Franca, SP 🌎
 </p>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+<br/>
 <p align="left">
-  
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge"/>
   <img alt="Angular" src="https://img.shields.io/badge/Angular-dd0031?logo=angular&logoColor=white&style=for-the-badge"/>
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
