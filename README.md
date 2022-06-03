@@ -20,6 +20,7 @@ Front-End Developer 🖖
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
   <img alt="Python" src="https://img.shields.io/badge/Python-336791?logo=python&logoColor=white&style=for-the-badge"/>
   <img alt="React" src="https://img.shields.io/badge/React-dd0031?logo=react&logoColor=white&style=for-the-badge"/>
+ <img alt="React Native" src="https://img.shields.io/badge/React Native-1572B6?logo=react&logoColor=white&style=for-the-badge" />
   <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/GitHub-000?logo=GitHub&logoColor=white&style=for-the-badge" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%2314354C.svg?&style=for-the-badge&logo=typescript&logoColor=yellow"/>
