@@ -6,7 +6,7 @@
   <br>
   
 <p align="left"> 
-Front-End Developer 🖖
+Full Stack Developer 🖖
   <br>
   18 years 🚀
   <br>
