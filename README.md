@@ -14,8 +14,8 @@
 <p align="center"> 
 I am currently studying Systems Analysis and Development at FATEC.
 <br>
-In search of new knowledge, I am specializing as a Full Stack programmer, web and mobile.
-I have experience as a graphic designer, and started in programming as a front-end developer.
+Hello, my name is Gabriel Pessoni 🖖.
+I'm 18 years old and I work as a front-end developer. in Esquadros. In addition to being a developer, I have already carried out several researches in the A.I. and Robotics segment.
 </p>
 
 <br>
@@ -33,11 +33,11 @@ I have experience as a graphic designer, and started in programming as a front-e
   &nbsp;  
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   &nbsp;  
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
    &nbsp;  
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
    &nbsp;
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </p>
 
 <br>
