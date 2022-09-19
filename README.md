@@ -81,4 +81,6 @@ I'm 18 years old and I work as a front-end developer. in Esquadros. In addition 
   <td width="50%" align="center">
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpessoni&layout=compact&langs_count=7&theme=radical"/>
   </td>
+  <image width="790em" style="marginLeft:"100px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gpessoni&theme=radical">
 </p> 
+
