@@ -76,9 +76,9 @@ I'm 18 years old and I work as a front-end developer. in Esquadros. In addition 
   
 <p  align="center">
   <td width="50%" align="center">
-     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MateusRanzani&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
+     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gpessoni&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
   </td>
   <td width="50%" align="center">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRanzani&layout=compact&langs_count=7&theme=radical"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpessoni&layout=compact&langs_count=7&theme=radical"/>
   </td>
 </p> 
