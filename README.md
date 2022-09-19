@@ -1,74 +1,84 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
-<h1>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+<h1 align="center">
   Gabriel Pessoni
-  </h1>
+</h1>
   
-  <br>
   
-<p align="left"> 
-Full Stack Developer 🖖
-  <br>
-  18 years 🚀
-  <br>
-  Studying at Fatec Franca (Analysis and systems development) 🎓
-  <br>
-  Franca, SP 🌎
-</p>
-📚 Technologies:
-<p align="left">
-  <img alt="Css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-336791?logo=python&logoColor=white&style=for-the-badge"/>
-  <img alt="React" src="https://img.shields.io/badge/React-dd0031?logo=react&logoColor=white&style=for-the-badge"/>
- <img alt="React Native" src="https://img.shields.io/badge/React Native-1572B6?logo=react&logoColor=white&style=for-the-badge" />
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/GitHub-000?logo=GitHub&logoColor=white&style=for-the-badge" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%2314354C.svg?&style=for-the-badge&logo=typescript&logoColor=yellow"/>
-</p>
- <p align="left">
-  🏷️ Clique nas imagens para ver alguns projetos da linguagem: </p>
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
- 
-
-<p align="left">
- 📚 Experiences:
-<br>📌 Scientific Researcher from CNPQ(2019 – 2022)
-<br>📌 Data Scientist with Python and Tableau (Canadá) (2021)
-  <a href="https://esquadros.com.br/"> <br>📌 FrontEnd Developer in Esquadros  (Currently) </a>
-</p>
-
-<p  align="center">
-<td width="50%" align="center">
-   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gpessoni&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-</td>
-  
-<td width="50%" align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpessoni&layout=compact&langs_count=7&theme=radical"/>
-  </td>
-  
-</tr>
-</table>
+<h4 align="center"> 
+  👋 Hello! Welcome to my Github profile. 
+</h4>
 
 <br>
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-<p align="left">
-  💌 Contact links: ⤵️
+
+<p align="center"> 
+I am currently studying Systems Analysis and Development at FATEC.
+<br>
+In search of new knowledge, I am specializing as a Full Stack programmer, web and mobile.
+I have experience as a graphic designer, and started in programming as a front-end developer.
 </p>
 
-<p align="left">
+<br>
+
+<p align="center">
+  💻 Technologies:
+</p>
+
+<p align="center">
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  &nbsp;
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  &nbsp;  
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  &nbsp;  
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  &nbsp;  
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+   &nbsp;  
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+   &nbsp;
+  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+</p>
+
+<br>
+
+<p align="center">
+📚 Experiences:
+<a href="https://esquadros.com.br/"> <br>📌 FullStack Developer in Esquadros (Currently) </a>
+<a> <br>📌  Data Scientist with Python and Tableau (Canadá) (2021) </a>
+<a> <br>📌 Scientific Researcher from CNPQ(2019 – 2022) </a>
+</p>
+
+<br>
+
+<p align="center">
+  Contact links: ⤵️
+</p>
+
+<p align="center">
+  <a href="https://br.linkedin.com/in/gabriel-pessoni?trk=public_profile_browsemap">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHwsJWHqHhPsCMkDSPkhjdCTnMcZMqBNzkKSNHrkkgxFKXqgbrgmkWdrgzwhkvNnNFgVgKq" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=gabrielspessoni@gmail.com" /></a>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://api.whatsapp.com/send?phone=5516999980213&text=Gabriel%20Pessoni%20(Desenvolvedor%20Front-End)" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://www.facebook.com/profile.php?id=100009137994367" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
-  <a href="https://www.instagram.com/gabriel_pessoni" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/gabriel_pessoni/"/></a>
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/mateus_ranzani/" alt="Instagram">
+  <img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-thumbnail.png"/></a>
+</p> 
+
+<p  align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1px"> 
 </p> 
 
 <br>  
-
-<p align="left">
- 📺 Portfolio: https://gpessoni.github.io/
-</p>
+  
+<p  align="center">
+  <td width="50%" align="center">
+     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MateusRanzani&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
+  </td>
+  <td width="50%" align="center">
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRanzani&layout=compact&langs_count=7&theme=radical"/>
+  </td>
+</p> 
