@@ -20,24 +20,11 @@ I'm 18 years old and I work as a front-end developer. in Esquadros. In addition 
 
 <br>
 
-<p align="center">
-  💻 Technologies:
-</p>
+  <h2 align="center">Linguagens e tecnologias</h2>
+
 
 <p align="center">
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  &nbsp;
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  &nbsp;  
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  &nbsp;  
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  &nbsp;  
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-   &nbsp;  
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
-   &nbsp;
-  <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,c,python,golang,git&theme=light" />
 </p>
 
 <br>
