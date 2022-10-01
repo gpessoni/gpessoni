@@ -52,7 +52,6 @@ I'm 18 years old and I work as a front-end developer. in Esquadros. In addition 
 <p  align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1px"> 
 </p> 
-
 <br>  
 <p  align="center">
   <td width="50%" align="center">
