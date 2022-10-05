@@ -35,9 +35,9 @@ I'm 18 years old and I work as a front-end developer. in Esquadros. In addition 
   <img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-thumbnail.png"/></a>
 </p> 
 <br>
-  <h2 align="center">💻 Languages and Technologies</h2>
+  <h2 align="center">💻Technologies and FrameWorks</h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,express,python,golang,git&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,arduino,js,react,ts,nodejs,express,python,golang,git&theme=light" />
 </p>
 
 <br>
