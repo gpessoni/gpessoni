@@ -35,7 +35,7 @@ I'm 18 years old and I work as a front-end developer. in Esquadros. In addition 
   <img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-thumbnail.png"/></a>
 </p> 
 <br>
-  <h2 align="center">Linguagens e tecnologias</h2>
+  <h2 align="center>💻 Languages and Technologies</h2>
 <p align="center">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,express,python,golang,git&theme=light" />
 </p>
@@ -48,7 +48,7 @@ I'm 18 years old and I work as a front-end developer. in Esquadros. In addition 
 <a> <br>📌 Scientific Researcher from CNPQ(2019 – 2022) </a>
 </p>
 <br>
-<h2 align="center" >📚 Stats and Achievements:</h2>
+<h2 align="center" >⭐ Stats and Achievements:</h2>
 <p  align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1px"> 
 </p> 
