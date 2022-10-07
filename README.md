@@ -37,7 +37,7 @@ I'm 18 years old and I work as a front-end developer. in Esquadros. In addition 
 <br>
   <h2 align="center">💻Technologies and FrameWorks</h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,arduino,raspberrypi,js,react,ts,nodejs,express,python,golang,git&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,arduino,raspberrypi,js,react,ts,nodejs,express,python,golang,git&theme=light&perline=10" />
 </p>
 
 <br>
