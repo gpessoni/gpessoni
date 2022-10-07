@@ -44,7 +44,7 @@ I'm 18 years old and I work as a front-end developer. in Esquadros. In addition 
 <h2 align="center">📚 Experiences:</h2>
 <p align="center">
 <a href="https://esquadros.com.br/"> <br>📌 FullStack Developer in Esquadros (Currently) </a>
-  <a> <br>📌 Scientific Researcher from CNPQ(Currently) </a>
+  <a href="https://www.gov.br/cnpq/pt-br"> <br>📌 Scientific Researcher from CNPQ in UI and Accessibility(Currently) </a>
 <a> <br>📌 Data Scientist with Python and Tableau (Canadá) (2021)</a>
 </p>
 <br>
