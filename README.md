@@ -15,7 +15,7 @@
 I am currently studying Systems Analysis and Development at FATEC.
 <br>
 Hello, my name is Gabriel Pessoni 🖖.
-I'm 18 years old and I work as a front-end developer. in Esquadros. In addition to being a developer, I have already carried out several researches in the A.I. and Robotics segment.
+I'm 19 years old and I work as a FullStack developer. in Esquadros. In addition to being a developer, I have already carried out several researches in the A.I. and Robotics segment.
 </p>
 
 <p align="center">
