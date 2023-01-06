@@ -62,4 +62,6 @@ I'm 19 years old and I work as a FullStack developer. in Esquadros. In addition 
   </td>
   <image width="790em" style="marginLeft:"100px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gpessoni&theme=radical">
 </p> 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 
