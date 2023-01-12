@@ -52,7 +52,7 @@ I'm 19 years old and I work as a FullStack developer. in Esquadros. In addition 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1px"> 
 <br>  
      <img width="60%" height="30%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gpessoni&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
-    <img width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gpessoni&layout=compact&langs_count=7&theme=radical"/>
+
   <image width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gpessoni&theme=radical"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gpessoni&theme=radical&hide_border=true&border_radius=4&locale=pt_BR)](https://git.io/streak-stats)
