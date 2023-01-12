@@ -57,7 +57,7 @@ I'm 19 years old and I work as a FullStack developer. in Esquadros. In addition 
   <td width="50%" align="center">
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpessoni&layout=compact&langs_count=7&theme=radical"/>
   </td>
-  <image width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gpessoni&theme=radical"/>
+  <image width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gpessoni&theme=radical"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gpessoni&theme=radical&hide_border=true&border_radius=4&locale=pt_BR)](https://git.io/streak-stats)
 
