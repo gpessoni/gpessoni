@@ -52,10 +52,10 @@ I'm 19 years old and I work as a FullStack developer. in Esquadros. In addition 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1px"> 
 <br>  
   <td width="50%" >
-     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=gpessoni&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
+     <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gpessoni&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
   </td>
   <td width="50%" align="center">
-    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpessoni&layout=compact&langs_count=7&theme=radical"/>
+    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gpessoni&layout=compact&langs_count=7&theme=radical"/>
   </td>
   <image width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gpessoni&theme=radical"/>
 
