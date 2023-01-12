@@ -59,7 +59,7 @@ I'm 19 years old and I work as a FullStack developer. in Esquadros. In addition 
   </td>
   <image width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gpessoni&theme=radical"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gpessoni&theme=radical&hide_border=true&border_radius=4&locale=pt_BR)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gpessoni&theme=radical&hide_border=true&border_radius=4)](https://git.io/streak-stats)
 
 
 
