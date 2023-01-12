@@ -49,8 +49,6 @@ I'm 19 years old and I work as a FullStack developer. in Esquadros. In addition 
 </p>
 <br>
 <h2 >⭐ Stats and Achievements:</h2>
-
-
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1px"> 
 <br>  
   <td width="50%" >
