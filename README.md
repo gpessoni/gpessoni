@@ -49,5 +49,6 @@
 <br> <p align="center"> 
 [<img src="https://img.shields.io/badge/-Github-informational?style=flat&logo=github&logoColor=black&color=grey">](https://github.com/gpessoni) 
 [<img src="https://img.shields.io/badge/-Twitter-informational?style=flat&logo=twitter&logoColor=black&color=blue">](https://twitter.com/GabrielPessoni9) 
+ [<img src="https://img.shields.io/badge/-Instagram-informational?style=flat&logo=instagram&logoColor=red&color=white">](https://www.instagram.com/gabriel_pessoni/) 
 </p>
 
