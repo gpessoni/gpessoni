@@ -1,64 +1,53 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HELLO%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Gabriel%20Pessoni!&descAlign=50&descSize=30&animation=twinkling">
+</p>
 
-<h1 >
-  Gabriel Pessoni
-</h1>
+<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&width=435&lines=Welcome+to+my+Github+Profile+Page!" alt="Typing SVG" /></a> </p>
+
+<h2 align="center">⚡ STATS ⚡</h2>
+
+<p align="center">
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=gpessoni&show_icons=true&theme=github_dark&&hide_border=true"> 
+<img align="center" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=gpessoni&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Akascape's github streak stats"> 
+<img align="center" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gpessoni&theme=github_dark&show_icons=true&bg_color=0111111"> <br/>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=gpessoni&theme=onedark&no-frame=False&row=1&&margin-w=20&no-bg=true"> <br/><br/>
+<br/><br/><img align="center" width="150" src="https://komarev.com/ghpvc/?username=gpessoni&label=PROFILE+VIEWS&style=flat-square">
+</p>
+
+<br> 
+<h2 align="center">⚙️ TECH STACK AND SETUP⚙️ </h2>
+<br> 
+<p align="center">MAIN LAPTOP</p>
+<p align="center"> 
+<img src="https://img.shields.io/badge/OS-Windows_11-informational?style=flat&logo=Microsoft&logoColor=blue&color=1bdce3)](https://www.microsoft.com/en-us/windows?wa=wsignin1.0"/>
+<img src="https://img.shields.io/badge/IDLE-VS_Code-informational?style=flat&logo=VisualStudioCode&logoColor=lightblue&color=blue)](https://code.visualstudio.com/"/>
+  <br/><br/>
+-Acer Nitro 5 AMD Ryzen 7-4800H <br/>
+-GeForce GTX 1650TI<br/>
+- 16 gb RAM<br/>
+- SSD 512GB NVMe<br/>
+-SSD 360gb SATA<br/>
+ - Screen: 15.6 IPS FHD 144Hz<br/>
+
   
-  
-<h4 > 
-  👋 Hello! Welcome to my Github profile. 
-</h4>
-
-<br>
-
-<p > 
-I am currently studying Systems Analysis and Development at FATEC.
-<br>
-Hello, my name is Gabriel Pessoni 🖖.
-I'm 19 years old and I work as a FullStack developer. in Esquadros. In addition to being a developer, I have already carried out several researches in the A.I. and Robotics segment.
 </p>
 
-<p >
-  Contact links: ⤵️
+
+<br> <h2 align="center">🚀 MAIN LANGUAGES  🚀 </h2>
+<p dir="auto" align="center">
+   <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-55-13-06-00-18-00-html5.gif" style="max-width: 100%;" width="100">
+       <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-57-53-68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f667345615a6c644e43384131504a336d77702f736f757263652e676966.gif" style="max-width: 100%;" width="100">
+<img src="https://camo.githubusercontent.com/ece04e9e6d8e7370a88024f41d544915e01ce71b5457326c08349cc282ccf2d4/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f6c6e377a32655772696951416c6c6656636e2f323030772e77656270" data-canonical-src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" style="max-width: 100%;" width="100">
+ <img src="https://camo.githubusercontent.com/a3ccfae79c559d3ff0c7ece89882c93bf278d01f0d2a1d908e19497630dca49d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270" data-canonical-src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" style="max-width: 100%;" width="100">
+  <img src="https://camo.githubusercontent.com/cda2bff49eb0cd388393e08dd91cc3cf461f095e387d3fdcb8648ab0418010aa/68747470733a2f2f692e67697068792e636f6d2f6d656469612f654e41736a4f353574506267616f72376d612f323030772e77656270" data-canonical-src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" style="max-width: 100%;" width="100">
+
+   <img src="https://codetru.com/images/all/nodejsdis.gif" style="max-width: 100%;" width="100">
+
 </p>
 
-<p >
-  <a href="https://br.linkedin.com/in/gabriel-pessoni?trk=public_profile_browsemap">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHwsJWHqHhPsCMkDSPkhjdCTnMcZMqBNzkKSNHrkkgxFKXqgbrgmkWdrgzwhkvNnNFgVgKq" alt="Gmail">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://api.whatsapp.com/send?phone=5516999980213&text=Gabriel%20Pessoni%20(Desenvolvedor FullStack)" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100009137994367" alt="Facebook">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.instagram.com/mateus_ranzani/" alt="Instagram">
-  <img src="[https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-thumbnail.png"/></a>
-</p> 
-<br>
-  <h2 >💻Technologies and FrameWorks</h2>
-<p>
-    <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,gamemakerstudio,html,css,sass,tailwind,js,react,ts,nodejs,express,python,java,git,postgres,mysql,aws,vercel,heroku,linux,vscode&theme=light&perline=10" />
+<br> <h2 align="center"> 🌐 MY SOCIALS 🌐 </h2>
+<br> <p align="center"> 
+[<img src="https://img.shields.io/badge/-Github-informational?style=flat&logo=github&logoColor=black&color=grey">](https://github.com/gpessoni) 
+[<img src="https://img.shields.io/badge/-Twitter-informational?style=flat&logo=twitter&logoColor=black&color=blue">](https://twitter.com/GabrielPessoni9) 
 </p>
-
-<br>
-<h2 >📚 Experiences:</h2>
-<p >
-<a href="https://esquadros.com.br/"> <br>📌 FullStack Developer in Esquadros (Currently) </a>
-  <a href="https://www.gov.br/cnpq/pt-br"> <br>📌 Scientific Researcher from CNPQ in UI and Accessibility(Currently) </a>
-<a> <br>📌 Data Scientist with Python and Tableau (2021)</a>
-</p>
-<br>
-<h2 >⭐ Stats and Achievements:</h2>
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="1px"> 
-<br>  
-     <img width="60%" height="30%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gpessoni&show_icons=true&theme=radical&include_all_commits=false&count_private=true"/>
-
-  <image width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gpessoni&theme=radical"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=gpessoni&theme=radical&hide_border=true&border_radius=4&locale=pt_BR)](https://git.io/streak-stats)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gpessoni&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 
