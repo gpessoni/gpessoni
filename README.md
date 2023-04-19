@@ -32,6 +32,21 @@
   
 </p>
 
+<br/>
+<p align="center">MAIN COMPUTER</p>
+<p align="center"> 
+<img src="https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Linux&logoColor=blue&color=1bdce3)](https://www.microsoft.com/en-us/windows?wa=wsignin1.0"/>
+<img src="https://img.shields.io/badge/IDLE-Vim-informational?style=flat&logo=Vim&logoColor=lightblue&color=blue)](https://code.visualstudio.com/"/>
+  <br/><br/>
+-Ryzen 7 5700G 3.8GHz (4.6GHz Turbo <br/>
+  -Gigabyte B450M Gaming <br/>
+- 64 gb RAM<br/>
+- SSD 480GB SATA<br/>
+-HD 1tb SATA<br/>
+ - Fonte Cooler Master Elite V3 400W<br/>
+
+  
+</p>
 
 <br> <h2 align="center">🚀 MAIN LANGUAGES  🚀 </h2>
 <p dir="auto" align="center">
