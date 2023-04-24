@@ -59,6 +59,8 @@
    <img src="https://codetru.com/images/all/nodejsdis.gif" style="max-width: 100%;" width="100">&nbsp;&nbsp;
      <img src="https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" style="max-width: 100%;" width="70">&nbsp;&nbsp;
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/2048px-Electron_Software_Framework_Logo.svg.png" style="max-width: 100%;" width="100">&nbsp;&nbsp;
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Python_and_Qt.svg/1200px-Python_and_Qt.svg.png" style="max-width: 100%;" width="100">&nbsp;&nbsp;
+        <img src="https://it-start.online/wp-content/uploads/2022/05/tkinter-python-2-5.png" style="max-width: 100%;" width="140">&nbsp;&nbsp;
    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png" width="100">&nbsp;&nbsp;
 <img src="https://logodownload.org/wp-content/uploads/2016/10/mysql-logo.png" width="100">&nbsp;&nbsp;
   <img src="https://logodownload.org/wp-content/uploads/2018/02/raspberry-pi-logo.png" width="70">&nbsp;&nbsp;
