@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HELLO%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Gabriel%20Pessoni!&descAlign=50&descSize=30&animation=twinkling">
+<img src="https://camo.githubusercontent.com/4fedc4a4774171605019d843dca90e6a04968456173d2138f5ac2f8a17563223/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d74696d654772616469656e74266865696768743d333030262673656374696f6e3d68656164657226746578743d48454c4c4f25323054484552452126666f6e7453697a653d393026666f6e74416c69676e3d353026666f6e74416c69676e593d333026646573633d49253230616d2532304761627269656c253230506573736f6e69212664657363416c69676e3d3530266465736353697a653d333026616e696d6174696f6e3d7477696e6b6c696e67">
 </p>
 
 <p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&width=435&lines=Welcome+to+my+Github+Profile+Page!" alt="Typing SVG" /></a> </p>
