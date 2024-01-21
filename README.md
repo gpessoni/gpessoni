@@ -28,23 +28,6 @@
 -SSD 360gb SATA<br/>
  - Screen: 15.6 IPS FHD 144Hz<br/>
 
-  
-</p>
-
-<br/>
-<p align="center">MAIN COMPUTER</p>
-<p align="center"> 
-<img src="https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=Linux&logoColor=blue&color=1bdce3)](https://www.microsoft.com/en-us/windows?wa=wsignin1.0"/>
-<img src="https://img.shields.io/badge/IDLE-VS_Code-informational?style=flat&logo=VisualStudioCode&logoColor=lightblue&color=blue)](https://code.visualstudio.com/"/>
-  <br/><br/>
--Ryzen 7 5700G 3.8GHz (4.6GHz Turbo) <br/>
-  -Gigabyte B450M Gaming <br/>
-- 64 gb RAM<br/>
-- SSD 480GB SATA<br/>
--HD 1tb SATA<br/>
- - Fonte Cooler Master Elite V3 400W<br/>
-
-  
 </p>
 
 <br> <h2 align="center">🚀 MAIN TECHNOLOGIES  🚀 </h2>
