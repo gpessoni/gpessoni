@@ -1,7 +1,7 @@
 <p align="center"> 
 
 
-<p align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&width=435&lines=Welcome+to+my+Github+Profile+Page!" alt="Typing SVG" /></a> </p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&pause=1000&color=40C463&width=435&lines=Welcome+to+my+Github+Profile+Page!" alt="Typing SVG" /></p>
 
 <h2 align="center">⚡ STATS ⚡</h2>
 
