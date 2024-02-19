@@ -47,10 +47,4 @@
       <img src="https://glcv3.b-cdn.net/wp-content/uploads/sites/3/2023/01/gamemaker-studio-logo.png" width="70">&nbsp;&nbsp;
 </p>
 
-<br> <h2 align="center"> 🌐 MY SOCIALS 🌐 </h2>
-<br> <p align="center"> 
-[<img src="https://img.shields.io/badge/-Github-informational?style=flat&logo=github&logoColor=black&color=white">](https://github.com/gpessoni) 
- [<img src="https://img.shields.io/badge/-Linkedin-informational?style=flat&logo=linkedin&logoColor=blue&color=white">](https://www.instagram.com/gabriel_pessoni/)
- [<img src="https://img.shields.io/badge/-Instagram-informational?style=flat&logo=instagram&logoColor=red&color=white">](https://www.instagram.com/gabriel_pessoni/) 
-</p>
 
